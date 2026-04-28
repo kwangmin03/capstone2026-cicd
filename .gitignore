@@ -6,6 +6,7 @@
 backend/target/
 frontend/build/
 frontend/node_modules/
+out/
 
 # 2. 보안 정보 (절대 올리면 안 됨!)
 application-local.yml
